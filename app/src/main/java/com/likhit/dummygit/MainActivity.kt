@@ -17,6 +17,7 @@ class MainActivity : AppCompatActivity() {
         println("LOCAL COMMIT")
         println("CHANGE 4")
         println("THIS LINE WILL BE MERGED")
+        println("HELLO FROM YOUR FRIEND")
     }
 }
 
