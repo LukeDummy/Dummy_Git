@@ -14,8 +14,6 @@ class MainActivity : AppCompatActivity() {
 
 
         println("THIS IS CONTAINED IN MY SECOND COMMIT")
-
-        sdkvsiodwf nowefjweio kwe woirjmwoekrt
     }
 }
 
